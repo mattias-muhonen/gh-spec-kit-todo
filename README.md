@@ -1,3 +1,13 @@
+This has been created with https://github.com/github/spec-kit/tree/main
+
+to demonstrate what kind of specs it creates. Initial prompt was "todo app where tasks can be assigned to uses"
+- set up for Claude
+- /specify was the todo command
+- /plan and /task
+
+Below are the ouputs messages of the three steps
+---
+
 ⏺ ✅ Specification created successfully!
 
   Branch: 001-todo-app-whereSpec file: /Users/mattias.muhonen/work/s
